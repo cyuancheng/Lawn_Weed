@@ -22,7 +22,7 @@ To create an AI detector for common lawn weeds using computer vision and deep le
 - Oxalis
 - White clover
 
-<a name="data:></a>
+<a name="data"></a>
 ## Data 
 
 The training and test imaging dataset was collected from Google image and stored on google drive for analysis. 
