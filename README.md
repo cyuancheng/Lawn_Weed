@@ -7,7 +7,7 @@
 
 1. [Objective](#objective)
 2. [Data](#data)
-3. [Results](#results)
+3. [Result](#results)
 4. [License](#licensing)
 
 <a name="objective"></a>
@@ -34,7 +34,7 @@ The training and test imaging dataset was collected from Google image and stored
  - Dataset contains 1830 training data and 457 testing data.
  - resnet50 was used for the deep learning model.
  - 95% accuracy can be achieved to predict the lawn weed.
- - The code for this project can be found [here].(https://github.com/cyuancheng/Lawn_Weed/blob/master/01_Weed_imaging_classifier.ipynb)
+ - The code for this project can be found [here](https://github.com/cyuancheng/Lawn_Weed/blob/master/01_Weed_imaging_classifier.ipynb).
  
  ![Confusion matrix](/confusion_matrix.JPG)
  
