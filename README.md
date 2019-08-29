@@ -10,8 +10,8 @@
 3. [Results](#results)
 4. [License](#licensing)
 
-
-## Objective <a name="objective"></a>
+<a name="objective"></a>
+## Objective 
 
 To create an AI detector for common lawn weeds using computer vision and deep learning. The 7 common lawn weeds are:
 - Annual Bluegrass
@@ -22,20 +22,21 @@ To create an AI detector for common lawn weeds using computer vision and deep le
 - Oxalis
 - White clover
 
-
-## Data <a name="data></a>
+<a name="data></a>
+## Data 
 
 The training and test imaging dataset was collected from Google image and stored on google drive for analysis. 
 ![7 common lawn weeds](/image_weed.JPG)
 
-
-## Result <a name="method></a>
+ <a name="results></a>
+## Result
  - Image augmentation was used to improve the performance of deep learning in imaging classification.
  - Dataset contains 1830 training data and 457 testing data.
  - resnet50 was used for the deep learning model.
  - 95% accuracy can be achieved to predict the lawn weed.
- ![Confusion matrix](/confusion_matrix)
-
-## License<a name="licensing"></a>
+ ![Confusion matrix](/confusion_matrix.JPG)
+ 
+<a name="licensing"></a>
+## License
 
 The credit was given fast.ai courses for the fast.ai package.
